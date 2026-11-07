@@ -1,0 +1,3 @@
+A beginner project to 3D print
+UNTESTED
+It can be used to hold yarn when crocheting instead of letting it lay around and move too much.
